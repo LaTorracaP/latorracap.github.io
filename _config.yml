@@ -29,11 +29,11 @@ author:
   bio              : "Research Fellow at the Tyndall National Institute, University College Cork"
   location         : "Cork (IE), Cervia (IT)"
   employer         : "Tyndall National Institute"
-  uri              : # URL
+  uri              : "https://www.tyndall.ie/"
   email            : # "none@example.org" 
 
   # Academic websites
-  academia         : "https://www.tyndall.ie/"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=tNT1G0sAAAAJ"
   inspire-hep      : # URL
