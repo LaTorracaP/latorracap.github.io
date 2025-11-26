@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "none@example.org"
+  employer         : '<a href="https://www.example.com" target="_blank" rel="noopener">Example Corp</a>'
   uri              : # URL
   email            : "none@example.org" 
 
